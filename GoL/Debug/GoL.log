@@ -1,0 +1,33 @@
+﻿Der Buildvorgang wurde am 03.06.2015 14:17:57 gestartet.
+     1>Projekt "C:\Users\Sebastian\Documents\Studium\Programmierung II\GoL\GoL\GoL.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GoL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GoLDlg.cpp
+         GoLDlg.cpp
+     1>c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(731): warning C4258: 'i': Die Definition von der for-Schleife wurde ignoriert. Es wurde die Definition des umschließenden Gültigkeitsbereich verwendet
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(685): Definition von 'i' wurde ignoriert
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(643): Definition von 'i' wurde verwendet
+     1>c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(743): warning C4258: 'i': Die Definition von der for-Schleife wurde ignoriert. Es wurde die Definition des umschließenden Gültigkeitsbereich verwendet
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(685): Definition von 'i' wurde ignoriert
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(643): Definition von 'i' wurde verwendet
+     1>c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(755): warning C4258: 'i': Die Definition von der for-Schleife wurde ignoriert. Es wurde die Definition des umschließenden Gültigkeitsbereich verwendet
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(685): Definition von 'i' wurde ignoriert
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(643): Definition von 'i' wurde verwendet
+     1>c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(767): warning C4258: 'i': Die Definition von der for-Schleife wurde ignoriert. Es wurde die Definition des umschließenden Gültigkeitsbereich verwendet
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(685): Definition von 'i' wurde ignoriert
+                 c:\users\sebastian\documents\studium\programmierung ii\gol\gol\goldlg.cpp(643): Definition von 'i' wurde verwendet
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sebastian\Documents\Studium\Programmierung II\GoL\Debug\GoL.exe" /INCREMENTAL /NOLOGO winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Sebastian\Documents\Studium\Programmierung II\GoL\Debug\GoL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sebastian\Documents\Studium\Programmierung II\GoL\Debug\GoL.lib" /MACHINE:X86 Debug\GoL.res
+         Debug\Cell.obj
+         Debug\Field.obj
+         Debug\GoL.obj
+         Debug\GoLDlg.obj
+         Debug\Slider.obj
+         Debug\spritelib.obj
+         Debug\stdafx.obj
+         Debug\XUnzip.obj
+         GoL.vcxproj -> C:\Users\Sebastian\Documents\Studium\Programmierung II\GoL\Debug\GoL.exe
+     1>Die Erstellung des Projekts "C:\Users\Sebastian\Documents\Studium\Programmierung II\GoL\GoL\GoL.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.56

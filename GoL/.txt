@@ -1,0 +1,25 @@
+Ereignisse:
+0 - WM_TIMER
+1 - WM_LBUTTONUP & "Menu_button-Sprite" getroffen
+2 - WM_LBUTTONUP & "Start-Sprite" getroffen
+3 - WM_LBUTTONUP & "Stop-Sprite" getroffen
+4 - WM_LBUTTONUP & "Editor-Sprite" getroffen
+5 - WM_LBUTTONUP & "Optionen-Sprite" getroffen
+6 - WM_LBUTTONUP & "Menue_beenden-Sprite" getroffen
+7 - WM_LBUTTONUP & "Editor_beenden-Sprite" getroffen
+8 - WM_LBUTTONUP & "Optionen_beenden-Sprite" getroffen
+9 - WM_TIMER & Menu-Sprite ist sichtbar
+10 - WM_TIMER & kein Menu-Sprite ist sichtbar
+11 - WM_TIMER & Optionen-Sprite ist sichtbar
+12 - WM_TIMER & keine Optionen-Sprite ist sichtbar
+
+Aktionen:
+0 - nichts tun
+1 - Animation fortsetzen
+2 - Animation anhalten
+3 - Editor aktivieren
+4 - Editor deaktivieren
+5 - Menüsprites einblenden
+6 - Menüsprites ausblenden
+7 - Optionensprites einblenden
+8 - Optionensprites ausblenden

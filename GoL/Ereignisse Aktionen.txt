@@ -1,0 +1,75 @@
+Ereignisse:
+0 - WM_TIMER
+1 - WM_LBUTTONUP & "Menu_button" getroffen
+2 - WM_LBUTTONUP & "Editor" getroffen
+3 - WM_LBUTTONUP & "Optionen" getroffen
+4 - WM_LBUTTONUP & "Menue_beenden" getroffen
+5 - WM_LBUTTONUP & "Editor_beenden" getroffen
+6 - WM_LBUTTONUP & "Optionen_beenden" getroffen
+7 - WM_LBUTTONUP & "Info" getroffen
+8 - WM_LBUTTONUP & "Info_beenden" getroffen
+9 - WM_LBUTTONUP & "Speichern" getroffen
+10 - WM_LBUTTONUP & "Laden" getroffen
+11 - WM_LBUTTONUP & File ausgewählt
+12 - WM_TIMER & Menu ist komplett sichtbar
+13 - WM_TIMER & kein Menu ist sichtbar
+14 - WM_TIMER & Optionen ist komplett sichtbar
+15 - WM_TIMER & keine Optionen ist sichtbar
+16 - WM_TIMER & Info ist komplett sichtbar
+17 - WM_TIMER & keine Info ist sichtbar
+18 - WM_TIMER & Speichern ist komplett sichtbar
+19 - WM_TIMER & keine Speichern ist sichtbar
+20 - WM_TIMER & Laden ist komplett sichtbar
+21 - WM_TIMER & keine Laden ist sichtbar
+22 - Speichern/Laden abgebrochen
+
+Aktionen:
+0 - nichts tun
+1 - Menü einblenden
+2 - Menü ausblenden
+3 - Menü rausporten und Editor aktivieren
+4 - Editor deaktivieren
+5 - Optionen einblenden
+6 - Optionen ausblenden
+7 - Speichern einblenden
+8 - Speichern ausblenden
+9 - Laden einblenden
+10 - Laden ausblenden
+11 - Info einblenden
+12 - Info ausblenden
+13 - Speichern
+14 - Laden
+15 - Menü reinporten
+16 - Menü rausporten
+17 - Info reinporten
+18 - Info rausporten
+19 - Menü rausporten und Option reinporten
+20 - Option rausporten und Menü reinporten
+21 - Menü rausporten und Saveload reinporten
+22 - Saveload rausporten
+23 - KillTimer
+
+Zustände:
+0 - Standard
+1 - About einblenden
+2 - About
+3 - About ausblenden
+4 - Menü einblenden
+5 - Menü
+6 - Menü ausblenden
+7 - Menü ausblenden
+8 - Editor
+9 - Optionen einblenden
+10 - Optionen
+11 - Optionen ausblenden
+12 - Menü ausblenden
+13 - Speichern einblenden
+14 - Speichern
+15 - Speichern ausblenden
+16 - Menü ausblenden
+17 - Laden einblenden
+18 - Laden
+19 - Laden ausblenden
+20 - Menü ausblenden
+21 - Menü einblenden
+22 - Speichern/Laden ausblenden
